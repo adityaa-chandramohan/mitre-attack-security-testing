@@ -1,6 +1,6 @@
 # MITRE ATTACK Security Testing Framework
 
-A Python-based security validation framework that maps defensive controls to the **MITRE ATT&CK Enterprise Matrix v15**.
+A Python-based security validation framework that maps defensive controls to the **MITRE ATTACK Enterprise Matrix v15**.
 
 Each test verifies that a specific control is in place to prevent or detect a known adversary technique. Every failure includes actionable remediation guidance.
 
