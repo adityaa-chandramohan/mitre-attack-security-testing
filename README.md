@@ -1,4 +1,4 @@
-# MITRE ATT&CK Security Testing Framework
+# MITRE ATTACK Security Testing Framework
 
 A Python-based security validation framework that maps defensive controls to the **MITRE ATT&CK Enterprise Matrix v15**.
 
